@@ -54,8 +54,8 @@ HTTP/1.1 500 Internal Server Error
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Danila5646/GoCalculater
+   cd Calculater_project
    ```
 2. Запустите сервер:
    ```bash
